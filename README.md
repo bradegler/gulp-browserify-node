@@ -6,7 +6,11 @@ The project layout is somewhat opinionated but can be customized as needed.
 
 ## Client
 
-The
+The client expects that [handlebars](http://handlebarsjs.com/) will be used for view templates, [sass](http://sass-lang.com/) will be used for css extension and that the javascript uses node.js style modules that can be managed by [browserify](http://browserify.org/).
+
+## Server
+
+The example server included is just a simple express webserver.
 
 ## Gulp Build System
 

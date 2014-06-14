@@ -1,0 +1,17 @@
+node_modules
+bower_components
+review.sublime-*
+tmp
+public/css/style.css
+public/css/main.css
+.project
+.settings
+v8.log
+bower_components
+.nodemonignore
+*.pid
+pids
+logs
+*.log
+.vagrant/
+dist
